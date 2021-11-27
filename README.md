@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kirkkoster
-- 👀 I’m interested in React Native, C#
-- 🌱 I’m currently learning Azure DevOps, Kubernetes, Docker, Azure, AWS, Terraform
-- 💞️ I’m looking to collaborate on anything low level! 
+- 👀 I’m developing primarily in React Native and C#
+- 🌱 I'm currently expanding my knowledge in both areas!
 - 📫 How to reach me: @smileforkirk on twitter!
 
 <!---
